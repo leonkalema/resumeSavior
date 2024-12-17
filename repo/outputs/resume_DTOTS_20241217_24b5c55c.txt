@@ -1,0 +1,57 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+
+**Professional Summary**
+Dynamic and innovative IT Specialist with over 17 years of experience in the tech industry, with a strong focus on secure software development and cybersecurity. Recent roles have honed skills in Python programming, SQL, and cloud technologies, making me a proficient candidate for BI Development and Data Ingestion roles. Adept at designing, developing, and maintaining data pipelines and ETL processes, particularly in Azure Databricks environments. Passionate about leveraging technology to enhance customer experiences and drive business innovation.
+
+**Education**
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+
+**Certifications**
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+
+**Professional Experience**
+
+**Cybersecurity Methods Coach – Scania, Södertälje**
+July 2022 – Present
+- Enhanced system security by spearheading the adoption of the TARA framework for embedded ECU systems, ensuring compliance with industry standards.
+- Leveraged Python for scripting in the development of secure software training sessions, contributing to a fortified cybersecurity posture.
+
+**Engineering Manager (Consultant) – Tink/Visa, Stockholm**
+November 2021 – July 2022
+- Championed a security-integrated engineering culture, utilizing Python and SQL for developing secure, compliant applications in a cloud environment (GCP, AWS).
+- Improved application security and compliance (GDPR, PCI DSS) through effective leadership and technical expertise.
+
+**Security Research Consultant – Springboard, San Francisco, USA**
+April 2018 – April 2019
+- Utilized Python and SQL for penetration testing and security evaluations, enhancing application security and resilience.
+- Developed cybersecurity lab frameworks to bolster engineer training in vulnerability detection and incident response.
+
+**Tech Lead – eBerry by Nordic Choice Hotels, Solna**
+April 2019 – November 2021
+- Led secure coding practices and automated vulnerability management processes using Python and cloud technologies (AWS), emphasizing DevSecOps best practices.
+- Ensured ISO/IEC 27001 and GDPR compliance while delivering secure, scalable applications.
+
+**Application Developer – EasyPark AB, Stockholm**
+January 2017 – June 2017
+- Conducted code reviews and security assessments using Python and SQL, identifying and mitigating vulnerabilities in web applications.
+
+**Key Skills**
+- **Technical Expertise:** Advanced proficiency in Python programming and SQL. Extensive experience with Azure Databricks and cloud platforms (AWS, GCP). Skilled in data ingestion from various sources and ETL processes.
+- **Programming:** Python, Java, JavaScript (React JS, Node.js), Bash, PowerShell.
+- **Security & Compliance:** Deep understanding of secure coding practices, data privacy laws (GDPR), and cloud security standards.
+- **Analytical Thinking & Problem Solving:** Expert in data modeling, threat modeling, and root cause analysis.
+
+**Languages**
+- English (Fluent)
+- Swedish (Conversational)
+
+**Personal Projects & Contributions**
+- Developed a Python-based security assessment tool for SMEs, facilitating quick vulnerability checks (https://leonsecure.com/securecheck).
+- Actively contributed to security tools and frameworks on GitHub, promoting open-source security solutions.
+
+Leonard L. Kalema offers a unique blend of technical expertise, leadership, and a passion for using technology to enhance customer experiences. With a strong background in security and software development, alongside recent experiences that align closely with BI Development and Data Ingestion, Leonard is well-equipped to contribute to Apollo's mission of delivering exceptional travel experiences through technological innovation.

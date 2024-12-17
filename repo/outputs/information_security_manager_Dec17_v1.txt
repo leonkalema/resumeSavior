@@ -1,0 +1,49 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+Professional Summary:
+I'm Leonard L. Kalema, a seasoned Swedish IT Consultant and Security Specialist with over 17 years of experience across various sectors such as automotive, fintech, e-commerce, and hospitality. My expertise lies in secure software development, vulnerability management, cybersecurity strategies, and engineering leadership. I've demonstrated success in weaving secure coding practices into the fabric of development teams, mentoring cross-functional groups, and instilling a security-first mindset throughout organizations. My ability to align technical solutions with overarching business objectives has enabled me to deliver innovative, compliant, and robust security frameworks that drive growth.
+Education:
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+Certifications:
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+Professional Experience:
+Cybersecurity Methods Coach – Scania, Södertälje
+July 2022 – Present
+- Led the integration of the TARA framework into embedded ECU systems, enhancing security compliance and resilience.
+- Established comprehensive training modules on secure software development practices.
+- Drove vulnerability assessment initiatives to bolster defense mechanisms against cyber threats.
+Engineering Manager (Consultant) – Tink/Visa, Stockholm
+November 2021 – July 2022
+- Championed a culture of security within DevSecOps workflows.
+- Implemented static and dynamic code analysis tools to strengthen application security posture.
+- Developed GDPR and PCI DSS aligned security awareness programs for engineering personnel.
+Security Research Consultant – Springboard, San Francisco, USA
+April 2018 – April 2019
+- Crafted cybersecurity lab frameworks aimed at boosting engineers’ skills in detecting vulnerabilities and managing incidents.
+- Executed penetration tests to identify weaknesses and refine application safeguards.
+Tech Lead – eBerry by Nordic Choice Hotels, Solna
+April 2019 – November 2021
+- Mentored development teams on integrating secure coding practices within their workflows.
+- Ensured ISO/IEC 27001 and GDPR compliance while delivering scalable cloud-based solutions.
+Application Developer – EasyPark AB, Stockholm
+January 2017 – June 2017
+- Conducted rigorous code reviews focusing on identifying potential security concerns within web applications.
+Key Skills:
+Technical Expertise: Versatile in OWASP ZAP, Fortify, SonarQube; Proficient in implementing NIST and OWASP secure coding guidelines; Experienced with Docker,
+Kubernetes,Jenkins,GitLab CI/CD for integrated DevSecOps pipelines.
+Programming Languages: Proficient in Python, Java,Javascript(React JS Node.js)and scripting languages(Bash PowerShell).
+Security Standards & Compliance: In-depth knowledge of PCI DSS,GDPR,DORA,CRA,and SOC 2 frameworks alongside ISO21434&UNECE R155 standards.
+Leadership & Training: Proven track record of mentoring teams,cultivating a culture of security awareness,and delivering impactful training sessions.
+Analytical Thinking: Exceptional capabilities in threat modeling incident response planning,and conducting root cause analyses for continuous improvement.
+Languages:
+- English (Fluent)
+Swedish (Conversational)
+Personal Projects & Contributions:
+-Cybersecurity Awareness Advocate: Hosted workshops focused on promoting best practices in secure coding and effective vulnerability management strategies.
+Open Source Contributions: Active contributions to the enhancement of security tools and methodologies within the GitHub community.
+Developed “SecureCheck”, a rapid assessment tool tailored for SMEs,to fortify their defenses against evolving cyber threats(https://leonsecure.com/securecheck).
+In applying for the role of Information Security Manager at Pod Point,I bring a blend of strategic vision hands-on expertise,and leadership acumen honed across diverse technological landscapes.My track record underscores not only my technical prowess but also my capacity to drive meaningful change,resilience,and growth within complex digital ecosystems.I am eager to contribute my skills towards advancing Pod Point's mission to revolutionize EV charging infrastructure across Europe while safeguarding critical data assets against sophisticated threats.

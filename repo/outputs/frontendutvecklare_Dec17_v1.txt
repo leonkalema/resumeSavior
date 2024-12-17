@@ -1,0 +1,51 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+
+**Professional Summary**
+Passionate Frontend Developer and IT Security Consultant with over 17 years of rich experience in crafting secure, responsive, and user-centric web solutions across diverse sectors including automotive, fintech, e-commerce, and hospitality. Renowned for integrating advanced front-end technologies with a keen focus on React to elevate user experience and application performance. Committed to fostering collaboration between developers and designers to achieve seamless design-to-technology transitions. Eager to bring my expertise to create accessible, high-quality, and well-designed solutions that comply with the latest legal requirements.
+
+
+**Education**
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+
+**Certifications**
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+
+
+**Professional Experience**
+
+**Cybersecurity Methods Coach – Scania, Södertälje**
+July 2022 – Present
+Implemented secure software development training; enhanced team understanding of front-end security nuances particularly in React applications.
+**Engineering Manager (Consultant) – Tink/Visa, Stockholm**
+November 2021 – July 2022
+Led cross-functional teams in developing secure, responsive web solutions using React JS; focused on performance optimization and UI/UX design integration.
+**Security Research Consultant – Springboard, San Francisco, USA**
+April 2018 – April 2019
+Developed training modules on modern frontend development practices focusing on React JS; emphasized accessibility and responsive design principles.
+**Tech Lead – eBerry by Nordic Choice Hotels, Solna**
+April 2019 – November 2021
+Mentored developers in optimizing frontend performance; championed the adoption of responsive design techniques in projects using React JS.
+**Application Developer – EasyPark AB, Stockholm**
+January 2017 – June 2017
+Contributed to enhancing the accessibility of web applications; focused on delivering user-friendly interfaces through meticulous code quality in React environments.
+
+**Key Skills**
+- Proficient with **React**, emphasizing **Responsive Design**, **Frontend Performance Optimization**, **UI/UX Design Principles**, and **Accessibility Standards (WAS/CPWA) certification interest**
+- Experienced in leading collaborative efforts between developers and designers for optimal solution crafting
+- Adept at utilizing JIRA for project management and workflow enhancement
+- Committed to continuous professional development in accessibility standards and certifications
+
+**Languages**
+- English (Fluent)
+- Swedish (Conversational)
+**Personal Projects & Contributions**
+- Developed www.leonsecure.com/securecheck , a tool for SMEs to quickly assess web security
+- Active contributor to open-source projects related to security tools/frameworks on GitHub
+- Organized community workshops focused on secure coding practices within the context of frontend development
+---
+I am deeply passionate about creating accessible web solutions that not only meet but exceed compliance standards. My career has been centered around ensuring that all users have an equal opportunity to access information seamlessly. With my strong foundation in modern frontend development technologies like React, coupled with my unwavering commitment to quality and detail-oriented approach towards building scalable solutions, I am confident in my ability to contribute meaningfully to your project. Excited about the possibility of joining your team to develop long-term structured solutions that prioritize code maintainability, security, high performance, along with a strong alignment towards UX/UI design principles.

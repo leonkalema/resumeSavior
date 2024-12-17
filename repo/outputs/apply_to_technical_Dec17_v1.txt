@@ -1,0 +1,60 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+
+**Professional Summary**
+Dynamic and dedicated Swedish IT Consultant and Security Specialist with a rich tapestry of over 17 years in the tech field, notably within automotive, fintech, e-commerce, and hospitality industries. My career is a testament to my passion for secure software development, vulnerability management, cybersecurity strategies, and propelling teams towards engineering excellence. I excel in weaving secure coding practices into the fabric of team operations, mentoring diverse teams, and cultivating a security-first mindset across departments. My knack for syncing technological solutions with business objectives has been key in deploying innovative, compliant, and resilient digital products.
+
+**Education**
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+
+**Certifications**
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+
+**Professional Experience**
+
+Cybersecurity Methods Coach – Scania, Södertälje
+July 2022 – Present
+Orchestrated the embrace of the TARA framework for embedded ECU systems—bolstering compliance and system integrity—while nurturing a knowledge-rich environment on secure software development principles among peers.
+
+Engineering Manager (Consultant) – Tink/Visa, Stockholm
+November 2021 – July 2022
+Pioneered a culture that embeds security into DevSecOps workflows. Evaluated code for vulnerabilities and led informative sessions on GDPR and PCI DSS adherence; ensuring our engineering practices were not just innovative but also ironclad.
+
+Security Research Consultant – Springboard, San Francisco, USA
+April 2018 – April 2019
+Devised cybersecurity lab frameworks to elevate engineers’ proficiency in detecting vulnerabilities and responding to incidents. My penetration testing initiatives provided crucial insights leading to fortified applications.
+
+Tech Lead – eBerry by Nordic Choice Hotels, Solna
+April 2019 – November 2021
+Empowered developers with best practices in secure coding while driving forward DevSecOps methodologies. Assured ISO/IEC 27001 and GDPR compliances were met without sacrificing application scalability or security integrity.
+
+Application Developer – EasyPark AB, Stockholm
+January 2017 – June 2017
+Elevated web application security through diligent code reviews. Advocated for React JS’s secure front-end development capabilities while refining app performance via CI/CD automation interventions.
+
+**Key Skills**
+
+Technical Expertise: Proficient with OWASP ZAP, Fortify, SonarQube for vulnerability assessment; versed in OWASP & NIST secure coding guidelines; adept at integrating Docker,Kubernetes,Jenkins,GitLab CI/CD into DevSecOps pipelines.
+Programming: Skilled in Python, Java JavaScript (React JS Node.js), Bash PowerShell.
+Security Standards Compliance: In-depth knowledge of ISO21434 UNECE R155 PCI DSS GDPR DORA CRA SOC2 frameworks.
+Leadership Training: Proven mentorship skills complemented by abilities to conduct impactful security trainings fostering an informed organizational culture.
+Analytical Thinking: Exceptional at threat modeling incident response analysis pinpointing root causes efficiently.
+
+**Languages**
+- English (Fluent)
+- Swedish (Conversational)
+
+**Personal Projects Contributions**
+- Passionate Cybersecurity Awareness Advocate engaging industry peers through workshops focused on secure coding practices.
+- Active Contributor to Open Source Security Tools Frameworks showcasing initiative towards communal knowledge enrichment.
+- Innovator behind SecureCheck - A swift security evaluation tool tailored for SMEs accessible via https://leonsecure.com/securecheck 
+
+Keenly aware of the imperative for precise project management acumen data storage awareness as fundamental requisites within modern software engineering paradigms I stand prepared to infuse these qualities into my role as a Technical IT & SW Engineer with your esteemed organization Mölndal.
+
+Let's embark on this journey together where my leadership forged from more than six years of experience including comprehensive technical acumen can contribute towards achieving our collective goals.
+
+Looking forward to discussing how my background expertise align with your needs deliver transformative results Leonard L. Kalema

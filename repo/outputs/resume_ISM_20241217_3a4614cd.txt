@@ -1,0 +1,62 @@
+Leonard L. Kalema  
+Gyllensborgsgatan 16, Stockholm  
+(46) 70 032 79 98 | tullapeople@gmail.com  
+www.leonsecure.com
+
+### Professional Summary
+Accomplished Information Security Manager with over 17 years of extensive experience in IT and security across various sectors including automotive, fintech, and e-commerce. Expert in developing and executing comprehensive security strategies, policy development, risk management, and leading security operations. Adept at ensuring compliance with industry standards (ISO27001/NIST), managing security tools and technology, and fostering a culture of continuous improvement in security practices. Skilled in navigating fast-paced growth environments and scaling security operations to support business objectives.
+
+### Education
+- **Master’s Programme in Information Security** – Stockholm University  
+- **Bachelor’s Degree in Information Technology** – Makerere University  
+
+### Certifications
+- Offensive Security Certified Professional (OSCP)  
+- ISO/IEC 27001 Lead Implementer  
+- Certified Information Security Manager (CISM)  
+- Certified Information Systems Security Professional (CISSP)  
+
+### Professional Experience
+
+**Cybersecurity Methods Coach** – Scania, Södertälje  
+July 2022 – Present  
+- Led the integration of TARA framework for enhanced security in embedded ECU systems, aligning with industry compliance standards.  
+- Developed and delivered security awareness training programs, significantly raising the security knowledge base across the organization.  
+- Managed risk assessments and incident response strategies, reducing potential security threats to automotive applications.
+
+**Engineering Manager (Consultant)** – Tink/Visa, Stockholm  
+November 2021 – July 2022  
+- Cultivated a security-focused engineering culture, integrating security into DevSecOps pipelines and ensuring GDPR and PCI DSS compliance.  
+- Spearheaded security operations including static and dynamic code analysis, identifying and mitigating vulnerabilities effectively.
+
+**Security Research Consultant** – Springboard, San Francisco, USA  
+April 2018 – April 2019  
+- Established cybersecurity lab frameworks to enhance engineers' skills in vulnerability detection and incident response.  
+- Conducted thorough penetration tests and security tool evaluations, contributing to robust application security postures.
+
+**Tech Lead** – eBerry by Nordic Choice Hotels, Solna  
+April 2019 – November 2021  
+- Championed DevSecOps best practices, and mentored teams in secure coding, significantly improving application security and compliance with ISO/IEC 27001.
+
+### Key Skills
+- **Technical Expertise:** Advanced knowledge in vulnerability assessment tools (OWASP ZAP, Fortify, SonarQube), secure coding practices (OWASP, NIST), and DevSecOps tools (Docker, Kubernetes).
+- **Programming:** Proficient in Python, Java, JavaScript (React JS, Node.js), and scripting languages (Bash, PowerShell).
+- **Security Standards & Compliance:** Expertise in ISO 27001, NIST frameworks, GDPR, and SOC 2 compliance.
+- **Leadership & Training:** Effective at mentoring teams, delivering tailored security training, and cultivating a security-aware culture.
+- **Analytical Thinking:** Exceptional skills in threat modeling, incident response, and root cause analysis.
+
+### Languages
+- English (Fluent)  
+- Swedish (Conversational)  
+
+### Personal Projects & Contributions
+- **Cybersecurity Awareness Advocate:** Conducted workshops focusing on secure coding and vulnerability management, enhancing security practices within the tech community.
+- **Open Source Contributions:** Actively involved in contributing to security tools and frameworks on GitHub, demonstrating a commitment to the security community.
+- Developed a security assessment tool for SMEs, facilitating quick and efficient security checks (https://leonsecure.com/securecheck).
+
+### Professional Goals
+- To leverage extensive experience in information security to develop and implement robust security strategies that align with business objectives.
+- To lead and mentor a dynamic team in achieving excellence in security operations, compliance, and risk management.
+- To drive continuous improvement in security practices, staying ahead of evolving threats and technologies. 
+
+Leonard L. Kalema is committed to advancing the security posture of organizations in the fast-evolving tech landscape, ready to contribute his expertise to ensure the safety and integrity of critical systems and data.

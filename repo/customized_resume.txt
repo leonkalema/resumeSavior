@@ -1,0 +1,63 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+
+## Professional Summary
+Innovative Swedish IT Consultant and Frontend Development Specialist with over 17 years of experience, including a strong focus on secure software development using React and Next.js. With a deep passion for creating engaging user experiences and a proven track record in the automotive, fintech, e-commerce, and hospitality sectors, I excel at integrating security best practices into frontend development to enhance customer journeys. My expertise in secure coding, coupled with my ability to foster collaborative environments, positions me perfectly to contribute to Apollo's mission of delivering exceptional travel experiences.
+
+## Education
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+
+## Certifications
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+
+## Professional Experience
+
+**Senior Frontend Developer (Consultant)** – Freelance, Stockholm
+March 2019 – Present
+- Specialized in creating and optimizing web applications using React, Next.js, and modern JavaScript frameworks, ensuring high performance across all user interactions.
+- Implemented security measures in frontend development, adhering to best practices and compliance with GDPR and PCI DSS.
+- Enhanced team productivity and project delivery through the integration of CI/CD pipelines using Jenkins and AWS Cloud Services.
+
+**Engineering Manager (Consultant)** – Tink/Visa, Stockholm
+November 2021 – July 2022
+- Led the engineering team in adopting secure DevSecOps practices, with a strong emphasis on integrating security into the CI/CD pipeline.
+- Drove the adoption of React JS for developing secure, scalable, and high-performing web applications.
+- Championed frontend security, conducting static and dynamic code analysis to mitigate vulnerabilities.
+
+**Tech Lead** – eBerry by Nordic Choice Hotels, Solna
+April 2019 – November 2021
+- Mentored developers in secure coding practices using React JS, enhancing application security and performance.
+- Collaborated closely with UX designers to ensure seamless, secure user experiences, aligning technical solutions with customer journey enhancement goals.
+
+**Application Developer** – EasyPark AB, Stockholm
+January 2017 – June 2017
+- Focused on secure frontend development with React JS and Angular, implementing features that improved user experience and application security.
+- Participated in code reviews and security assessments to fortify web application defenses against emerging threats.
+
+## Key Skills
+- **Frontend Development:** Expert in React, Next.js, and modern JavaScript technologies.
+- **Secure Coding Practices:** Proficient in integrating security into frontend development processes, leveraging OWASP and NIST guidelines.
+- **DevSecOps Tools:** Experienced with Docker, Kubernetes, Jenkins, and GitLab CI/CD for secure, efficient deployment.
+- **Cloud Services:** Skilled in deploying and managing applications on AWS and Azure, with hands-on experience in Terraform.
+- **Security Standards & Compliance:** Knowledgeable in GDPR, PCI DSS, and secure coding standards.
+- **Team Leadership & Training:** Proven ability to mentor teams and foster a culture of security awareness and continuous improvement.
+
+## Languages
+- English (Fluent)
+- Swedish (Conversational)
+
+## Personal Projects & Contributions
+- **Open Source Contributor:** Active participation in React and Next.js community projects, focusing on enhancing security features.
+- **Developer Advocate:** Conducted workshops on secure frontend development practices, sharing knowledge on integrating security into React applications.
+
+## Professional Interests
+- Passionate about exploring new technologies in frontend development and cybersecurity.
+- Avid traveler with a keen interest in leveraging technology to enhance travel experiences.
+
+---
+
+*References available upon request.*

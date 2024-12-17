@@ -1,0 +1,40 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+Personligt Sammandrag
+Erfaren IT-konsult och säkerhetsspecialist med över 17 års erfarenhet inom branscher såsom fordonsindustrin, fintech, e-handel och hotellverksamhet. Djupgående expertis i utveckling av säker programvara, hantering av sårbarheter, cybersäkerhetsstrategier och ledarskap inom teknik. Bevisad framgång i att integrera säker kodning, mentorskap för tvärfunktionella team och att främja en kultur som prioriterar säkerhet. Skicklig på att koppla samman tekniska implementeringar med affärsmål för att leverera innovativa, kompatibla och robusta lösningar. Svensk medborgare med goda kunskaper i svenska och engelska, både i tal och skrift.
+Utbildning
+- Masterprogram i Informationssäkerhet – Stockholms Universitet
+- Kandidatexamen i Informationsteknologi – Makerere Universitet
+Certifieringar
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+Yrkeserfarenhet
+Cybersäkerhetscoach – Scania, Södertälje
+Juli 2022 – Juli 2024
+Verktyg: TARA, UNECE R155, ISO 21434, Polarion, SIM, ISO 27001
+- Ledde införandet av TARA-ramverket för inbyggda ECU-system, vilket säkerställde efterlevnad av industristandarder och förbättrade systemsäkerheten.
+- Utformade och faciliterade utbildningssessioner om säker programutveckling, hotmodellering och cybersäkerhetstestningsprotokoll.
+- Genomförde bedömningar av sårbarheter och planerade insatser vid incidenter för att skydda kritiska fordonsapplikationer.
+Teknisk Ledare (Konsult) – Tink/Visa, Stockholm
+November 2021 – Juli 2022
+Verktyg: React JS, GCP, AWS, PCI DSS, SOC 2, Kubernetes, Jenkins
+- Främjade en produktiv ingenjörskultur som prioriterade integrationen av säkerhet i DevSecOps-pipelines.
+- Utförde statisk och dynamisk kodanalys för att identifiera och åtgärda applikationssårbarheter.
+- Levererade utbildning om säkerhetsmedvetenhet till ingenjörsteam för att främja standarder för säker kodning och efterlevnad av GDPR samt PCI DSS.
+Säkerhetsforskarkonsult – Springboard, San Francisco, USA
+April 2018 – April 2019
+Verktyg: OWASP ZAP, Metasploit, BurpSuite, Nessus, MITRE ATT&CKAWS
+- Utvecklade ramverk för cybersäkerhetslabb för att träna ingenjörer i upptäckt av sårbarheter och respons vid incidenter.
+- Utförde penetrationstester och utvärderingar av säkerhetsverktyg som gav handlingsbara insikter för hårdgöring av applikationer.
+Nyckelfärdigheter
+Teknisk Expertis: Behärskar verktyg för bedömning av sårbarheter (OWASP ZAP,Fortify,SonarQube), praktiker för säker kodning (OWASP,NIST) samt DevSecOps-verktyg (Docker,Kubernetes,Jenkins,GitLab CI/CD).
+Programmering: Stark erfarenhet i Python Java JavaScript(script JS Node.js) samt skriptspråk (Bash PowerShell).
+Säkerhetsstandard & Compliance: Djupförståelse för ISO21434 UNECER155 PCIDSS GDPR DORA CRAoch SOC2 ramar.
+Ledarskap & Utbildning: Skicklig på att mentorska team leverera säkerhetsutbildningaroch främja en kultur medveten om säkerhet.
+Analytiskt tänkande: Mycket bra på hotmodellering respons vid incidenteroch rotorsaksanalys.
+Språk
+Engelska Fluent Svenska FIKA only
+Personliga Projekt & Bidrag
+Cybersäkersmedvetenhetsförespråkare Erbjöd workshoppar om securecoding practices and vulnerability management.OpenSource Bidrag Aktiva bidrag till bevakningsverktygoch ramverkpå GitHub.Byggde ett snabbt bedömningsverktygför SMEshttps://leonsecure.com/securecheck

@@ -1,0 +1,88 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+
+Professional Summary
+Seasoned Swedish IT Consultant and Security Specialist with over 17 years of experience
+spanning automotive, fintech, e-commerce, and hospitality sectors. Demonstrated expertise
+in secure software development, vulnerability management, cybersecurity strategies, and
+engineering leadership. Proven success in integrating secure coding practices, mentoring
+cross-functional teams, and fostering a security-first culture. Adept at bridging technical
+implementations with business goals to deliver innovative, compliant, and robust solutions.
+Education
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+Certifications
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+Professional Experience
+Cybersecurity Methods Coach – Scania, Södertälje
+July 2022 – July 2024
+Tools: TARA, UNECE R155, ISO 21434, Polarion, SIM, ISO 27001
+- Spearheaded the adoption of the TARA framework for embedded ECU systems, ensuring
+compliance with industry standards and enhancing system security.
+- Designed and facilitated training sessions on secure software development, threat
+modelling, and cybersecurity testing protocols.
+- Conducted vulnerability assessments and incident response planning to safeguard critical
+automotive applications.
+
+Engineering Manager (Consultant) – Tink/Visa, Stockholm
+November 2021 – July 2022
+Tools: React JS, GCP, AWS, PCI DSS, SOC 2, Kubernetes, Jenkins
+- Fostered a productive engineering culture prioritising security integration into DevSecOps
+pipelines.
+- Conducted static and dynamic code analysis to identify and remediate application
+vulnerabilities.
+- Delivered security awareness training to engineering teams, promoting secure coding
+standards and compliance with GDPR and PCI DSS.
+Security Research Consultant – Springboard, San Francisco, USA
+April 2018 – April 2019
+Tools: OWASP ZAP, Metasploit, BurpSuite, Nessus, MITRE ATT&CK, AWS
+- Developed cybersecurity lab frameworks to train engineers in vulnerability detection and
+incident response.
+- Performed penetration testing and security tool evaluations, delivering actionable insights
+for application hardening.
+- Created comprehensive documentation to enhance security knowledge transfer across
+engineering teams.
+Tech Lead – eBerry by Nordic Choice Hotels, Solna
+April 2019 – November 2021
+Tools: AWS, React JS, Docker, Kubernetes, Terraform
+- Mentored developers in secure coding practices, automated vulnerability management
+processes, and championed DevSecOps best practices.
+- Collaborated with architects and engineers to integrate threat modelling into the software
+design lifecycle.
+- Ensured compliance with ISO/IEC 27001 and GDPR while delivering scalable, secure
+applications.
+Application Developer – EasyPark AB, Stockholm
+January 2017 – June 2017
+Tools: React JS, Angular, PostgreSQL, AWS
+- Conducted code reviews and security assessments to identify and mitigate vulnerabilities in
+web applications.
+- Contributed to secure front-end development using React JS and improved application
+performance through CI/CD automation.
+
+Key Skills
+Technical Expertise: Proficiency in vulnerability assessment tools (OWASP ZAP, Fortify,
+SonarQube), secure coding practices (OWASP, NIST), and DevSecOps tools (Docker,
+Kubernetes, Jenkins, GitLab CI/CD).
+Programming: Strong experience in Python, Java, JavaScript (React JS, Node.js), and
+scripting languages (Bash, PowerShell).
+Security Standards & Compliance: Deep understanding of ISO 21434, UNECE R155, PCI
+DSS, GDPR,DORA , CRA and SOC 2 frameworks.
+Leadership & Training: Skilled at mentoring teams, delivering security training, and
+fostering a security-aware culture.
+Analytical Thinking: Adept at threat modelling, incident response, and root cause analysis.
+
+Languages
+- English (Fluent)
+- Swedish (FIKA only)
+
+Personal Projects & Contributions
+- Cybersecurity Awareness Advocate: Delivered workshops on secure coding practices
+and vulnerability management.
+- Open Source Contributions: Actively contributed to security tools and frameworks on
+GitHub.
+- Built a quick security assessment tool for SMEs (https://leonsecure.com/securecheck )
+
+

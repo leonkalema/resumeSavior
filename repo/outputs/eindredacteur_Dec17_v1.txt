@@ -1,0 +1,43 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+**Professional Summary**
+Innovative IT Consultant and Security Specialist with a rich background spanning 17 years across multiple sectors including automotive, fintech, e-commerce, and hospitality. Known for my passion for storytelling through technology and secure software development. I bring a unique blend of technical expertise and creative problem-solving to the table, ready to transition these skills into producing engaging sports content. My journey has been about protecting digital arenas; now, I’m set to champion the thrill of physical ones.
+**Education**
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+**Certifications**
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+**Professional Experience**
+**Cybersecurity Methods Coach – Scania, Södertälje**
+July 2022 – Present
+- Implemented TARA framework improving ECU systems' security standards.
+- Designed training sessions focusing on secure coding and cybersecurity testing – an experience that highlights my ability to communicate complex ideas simply and effectively.
+- Coordinated across teams to ensure robust incident response planning, stressing my capability to work under pressure and prioritize tasks effectively.
+**Engineering Manager (Consultant) – Tink/Visa, Stockholm**
+November 2021 – July 2022
+- Pioneered integration of security measures into DevSecOps processes elevating product security.
+- Demonstrated exceptional team leadership by providing security awareness training.
+**Security Research Consultant – Springboard, San Francisco, USA**
+April 2018 – April 2019
+- Designed cybersecurity lab frameworks, showcasing my knack for creativity in education and proactive thinking in vulnerability detection.
+**Tech Lead – eBerry by Nordic Choice Hotels, Solna**
+April 2019 – November 2021
+- Mentored developers in secure coding practices; a testament to my strong communication skills and initiative in fostering growth among peers.
+**Application Developer – EasyPark AB, Stockholm**
+January 2017 – June 2017
+- Enhanced web application security through diligent code reviews proving my analytical abilities and attention to detail.
+**Key Skills**
+Expertise: Vulnerability assessment tools (OWASP ZAP), secure coding practices (OWASP), DevSecOps tools (Docker).
+Programming: Proficient in Python, JavaScript (React JS).
+Leadership & Training: Strong mentoring capabilities; adept at delivering targeted training sessions.
+Analytical Thinking: Excellent at threat modelling and prioritizing tasks under pressure.
+**Languages**
+English (Fluent)
+Swedish (Basic - FIKA level)
+**Personal Projects & Contributions**
+Cybersecurity Awareness Advocate: Hosted workshops emphasizing the importance of secure coding—a reflection of my passion for sharing knowledge.
+Open Source Contributions: Demonstrates initiative and commitment to community learning through active participation on GitHub.
+Shifting from the digital fortress to the electrifying world of sports as an Eindredacteur at Viaplay would be a thrilling new chapter. I am eager to bring my blend of analytical prowess, creative storytelling, and passion for sport to create compelling content that captivates audiences across Nederland. My experience has prepared me to think differently under pressure, collaborate effectively with diverse teams, and drive projects with self-initiative—qualities that resonate with Viaplay’s dynamic environment. Let’s redefine entertainment together!

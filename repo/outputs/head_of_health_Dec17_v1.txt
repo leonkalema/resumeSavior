@@ -1,0 +1,46 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+**Professional Summary**
+Dynamic Swedish IT Consultant and Security Specialist with a rich history of over 17 years in the fields of automotive, fintech, e-commerce, and hospitality. Known for pioneering secure software development and leading cybersecurity strategies with a keen focus on engineering leadership. My journey has been marked by a relentless pursuit to merge cutting-edge technological solutions with stringent security protocols, all while championing a culture of safety first. As someone deeply passionate about forging safer environments through technological innovation, I am eager to transition my comprehensive expertise into driving a world-class Health, Safety & Environment (HS&E) culture at Pod Point.
+**Education**
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+**Certifications**
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+**Professional Experience**
+Cybersecurity Methods Coach – Scania, Södertälje
+July 2022 – Present
+- **Spearheaded the adoption of TARA framework**, ensuring ECU system compliance and fortifying vehicle cybersecurity against emerging threats.
+- **Established comprehensive training programs** on secure software development practices significantly lifting the security competencies within engineering teams.
+- Diligently monitored and reported cybersecurity incidents, fostering an environment where safety risks were swiftly identified and mitigated.
+Engineering Manager (Consultant) – Tink/Visa, Stockholm
+November 2021 – July 2022
+- **Led DevSecOps integration initiatives**, seamlessly embedding security within software development lifecycles to preempt potential risks.
+- **Executed rigorous code analysis procedures**, identifying vulnerabilities and enforcing corrective measures that aligned with high-security standards.
+Security Research Consultant – Springboard, San Francisco, USA
+April 2018 – April 2019
+- **Coordinated cross-functional teams** in creating robust incident response frameworks that minimized risk exposure across critical applications.
+Tech Lead – eBerry by Nordic Choice Hotels, Solna
+April 2019 – November 2021
+- Championed the implementation of DevSecOps best practices ensuring that threat modelling was ingrained in every phase of software design and development.
+- Successfully maintained ISO/IEC 27001 compliance while overseeing the secure deployment of scalable applications catering to the hospitality industry.
+Application Developer – EasyPark AB, Stockholm
+January 2017 – June 2017
+- Conducted thorough security assessments on web applications paving the way for enhanced performance through innovative CI/CD automation techniques.
+**Key Skills**
+Technical Expertise: Advanced proficiency in vulnerability assessment tools (OWASP ZAP, Fortify), secure coding practices (OWASP Guidelines), and DevSecOps tools (Docker).
+Leadership & Training: Exceptional ability to mentor teams towards achieving excellence in HS&E standards; adept at designing industry-leading training programs.
+Compliance & Standards: In-depth knowledge of health and safety legislation, complimented by hands-on experience with electrical technical standards essential for maintaining safe installation and maintenance operations.
+Influencing Skills: Proven track record in senior-level interactions; skilled at building consensus across diverse stakeholder groups including regulatory bodies and partner organizations.
+Continuous Improvement: Strong commitment to enhancing HS&E systems through iterative review and refinement processes; enthusiastic about embracing new learnings to advance organizational safety culture.
+Languages
+- English (Fluent)
+- Swedish (Conversational - FIKA level)
+Personal Projects & Contributions
+• Cybersecurity Awareness Advocate: Facilitated workshops emphasizing secure coding practices aimed at reducing vulnerabilities.
+• Open Source Contributions: Contributed to evolving security frameworks accessible via GitHub demonstrating commitment to community-led improvement initiatives.
+• Developed "SecureCheck" for SMEs [https://leonsecure.com/securecheck] offering quick security assessments underscoring my dedication to extending safety beyond corporate boundaries.
+Aspiring to leverage my extensive background in technology and cybersecurity, I'm thrilled about the opportunity to lead Pod Point towards setting unprecedented standards in Health, Safety & Environment. My journey has always been fueled by the challenge of integrating robust safety measures within dynamic environments—a vision I eagerly anticipate bringing into Pod Point's mission-driven culture.

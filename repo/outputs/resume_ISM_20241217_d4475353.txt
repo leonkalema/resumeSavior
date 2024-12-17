@@ -1,0 +1,67 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+
+---
+
+**Objective**
+
+Innovative Information Security Manager with over 17 years of comprehensive experience in cybersecurity, risk management, and strategic policy development across various sectors including automotive, e-commerce, and fintech. Expert in leading cross-functional teams to enhance security postures, ensuring compliance with international standards, and driving continuous improvement in security operations. Eager to contribute to the evolution of electric vehicle charging infrastructure with a focus on safeguarding data and systems against emerging threats.
+
+**Professional Experience**
+
+**Cybersecurity Methods Coach** – Scania, Södertälje  
+*July 2022 – Present*  
+- Led the implementation of the TARA framework for embedded systems, aligning with industry standards and significantly enhancing system security in the automotive sector.  
+- Developed and delivered comprehensive security awareness programs, significantly improving security practices company-wide.
+
+**Engineering Manager (Consultant)** – Tink/Visa, Stockholm  
+*November 2021 – July 2022*  
+- Championed security integration into DevSecOps pipelines, enhancing application security across financial services platforms.  
+- Implemented GDPR and PCI DSS compliant practices, ensuring robust data protection and privacy measures.
+
+**Security Research Consultant** – Springboard, San Francisco, USA  
+*April 2018 – April 2019*  
+- Created cybersecurity lab frameworks to enhance engineers' skills in incident response and vulnerability detection, fostering a culture of continuous learning and improvement.
+
+**Tech Lead** – eBerry by Nordic Choice Hotels, Solna  
+*April 2019 – November 2021*  
+- Spearheaded initiatives to integrate threat modelling into the software design lifecycle, improving application security in the hospitality sector.
+
+**Application Developer** – EasyPark AB, Stockholm  
+*January 2017 – June 2017*  
+- Conducted thorough code reviews and security assessments, identifying and mitigating vulnerabilities in web applications.
+
+**Education**
+
+- **Master’s Programme in Information Security** – Stockholm University
+- **Bachelor’s Degree in Information Technology** – Makerere University
+
+**Certifications**
+
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+- Certified Information Security Manager (CISM) – In progress
+
+**Skills**
+
+- **Technical Expertise:** Proficient in vulnerability assessment tools (OWASP ZAP, Fortify, SonarQube), secure coding practices (OWASP, NIST), and DevSecOps tools (Docker, Kubernetes, Jenkins, GitLab CI/CD).
+- **Programming Languages:** Python, Java, JavaScript (React JS, Node.js), Bash, PowerShell.
+- **Security Standards & Compliance:** In-depth knowledge of ISO 21434, UNECE R155, PCI DSS, GDPR, and SOC 2 frameworks.
+- **Leadership & Training:** Exceptional leadership abilities with a proven track record of mentoring teams and delivering security training.
+- **Analytical Thinking:** Expert in threat modelling, incident response, and root cause analysis.
+
+**Professional Achievements**
+
+- **Security Awareness Advocate:** Led workshops on secure coding and vulnerability management, enhancing the security culture within organizations.
+- **Open Source Contributor:** Actively contributed to security tools and frameworks, promoting community-driven security solutions.
+
+**Languages**
+
+- English (Fluent)
+- Swedish (Conversational)
+
+---
+
+**Note:** Relocating to London and available for hybrid work model as per the job requirements.

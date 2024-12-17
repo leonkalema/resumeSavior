@@ -1,0 +1,48 @@
+Leonard L. Kalema
+Gyllensborgsgatan 16, Stockholm
+(46) 70 032 79 98 | tullapeople@gmail.com
+www.leonsecure.com
+---
+**Professional Summary**
+With over a decade and a half of IT mastery under my belt, I've navigated through the complexities of cybersecurity in various sectors including financial services, where precision and compliance are not just nice-to-haves but necessities. My journey has been about more than just safeguarding systems; it's been about designing resilient IT infrastructures that align seamlessly with business objectives. Whether it's finessing design documents or leading the charge on system integration testing, my goal has always been to ensure technology solutions not only meet but exceed user and business expectations.
+**Education**
+- Master’s Programme in Information Security – Stockholm University
+- Bachelor’s Degree in Information Technology – Makerere University
+**Certifications**
+- Offensive Security Certified Professional (OSCP)
+- ISO/IEC 27001 Lead Implementer
+**Professional Experience**
+**Cybersecurity Methods Coach – Scania, Södertälje**
+July 2022 – July 2024
+- Orchestrated the integration of TARA into embedded ECU systems, marrying compliance with top-notch security.
+- Created immersive training to weave secure coding practices into the fabric of software development.
+- Led vulnerability assessments with a keen eye on fortifying automotive applications against potential threats.
+**Engineering Manager (Consultant) – Tink/Visa, Stockholm**
+November 2021 – July 2022
+- Established a culture where security is the heartbeat of DevSecOps, enhancing product integrity across the board.
+- Analyzed code like a maestro, uncovering vulnerabilities and patching them before they could pose a risk.
+- Engineered security protocols that ensured GDPR and PCI DSS became part of our DNA.
+**Security Research Consultant – Springboard, San Francisco, USA**
+April 2018 – April 2019
+- Designed cybersecurity lab frameworks that turned engineers into cyber guardians through hands-on penetration testing training.
+- Penned volumes of documentation that served as the bedrock for security knowledge transfer.
+**Tech Lead – eBerry by Nordic Choice Hotels, Solna**
+April 2019 – November 2021
+- Mentored a team of developers in securing code from the ground up while championing DevSecOps methodologies.
+- Bridged technology with enterprise architecture to craft secure and scalable solutions compliant with ISO/IEC 27001 and GDPR.
+**Application Developer – EasyPark AB, Stockholm**
+January 2017 – June 2017
+- Steered front-end development projects towards secure harbors using React JS while smoothing sails with CI/CD automation.
+**Key Skills**
+Technical Expertise: Profound in tools for vulnerability assessment and secure coding practices; experienced in navigating DevSecOps landscapes.
+Programming: Versed in languages such as Python, Java, JavaScript; adept at scripting for automation and efficiency.
+Security Standards & Compliance: Well-founded knowledge in frameworks critical to financial sector requirements including PCI DSS and GDPR.
+Leadership & Training: Proven track record of mentoring teams towards embracing a security-first mindset across projects.
+Analytical Thinking: Exceptional capability in dissecting challenges through threat modelling and incident response strategies; proficient with SQL for data analysis needs.
+Languages:
+English (Fluent)
+Swedish (Conversational)
+Personal Projects & Contributions:
+Advocate for cybersecurity awareness through workshops; active contributor to open-source security projects; innovator behind https://leonsecure.com/securecheck - a tool offering quick security assessments for SMEs.
+---
+*Note: Eagerly looking forward to bringing my blend of technical know-how, leadership acumen, and sector-specific experience to navigate the ever-evolving landscape of IT systems design and implementation.*
